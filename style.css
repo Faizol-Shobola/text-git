@@ -20,3 +20,8 @@
 .card p {
     color: #666;
 }
+.card li {
+    list-style: none;
+    margin: 5px 0;
+    color: #555;
+}
